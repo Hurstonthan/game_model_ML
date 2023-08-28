@@ -1,6 +1,5 @@
 # Deep Learning Integration into Zeldra Game
 
-![Zeldra Game Logo](zeldra_logo.png)
 
 ## Project Description
 
@@ -25,7 +24,6 @@ The aim of this project is to develop a deep learning model that allows an agent
 1. **Prerequisites:** Ensure you have the following requirements installed:
    - Python (>=3.6)
    - TensorFlow (>=2.0) or PyTorch (>=1.0)
-   - Zeldra Game (version X.Y.Z)
 
 2. **Clone the Repository:** Clone this repository to your local machine:
    ```bash
